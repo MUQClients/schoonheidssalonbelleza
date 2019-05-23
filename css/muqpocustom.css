@@ -1,0 +1,49 @@
+/* Changes by KJR - MUQPO.be, 20190520. */
+body {
+  padding-top: 56px;
+}
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.portfolio-item {
+  margin-bottom: 30px;
+}
+/* KJR: achtergrond header */
+.bg-dark {
+  background-color: rgb(255, 255, 255)!important;
+}
+/* KJR: achtergrond footer */
+.py-5 {
+  background-color: rgb(0, 0, 0)!important;
+}
+/* KJR: kleur menuitems */
+.navbar-dark .navbar-nav .nav-link {
+  color: rgba(5, 5, 5, 0.925);
+}
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover { 
+  color: rgba(15, 1, 1, 0.925);
+  text-shadow: 0.3px 0.3px #1a0000;
+}
+.navbar-toggler-icon{
+  background-color: rgba(5, 5, 5, 0.925);
+}
+.navbar-toggler{
+  background-color: rgba(5, 5, 5, 0.925);
+}
+.carousel-caption{
+  color: rgba(5, 5, 5);
+}
+.carousel-inner{
+  margin-top: 60px;
+}
+.sbperson{
+  color: #007bff;
+}
+/* Copyright 2019 MUQPO.be - KJR. */
+/* Website as a service by MUQPO.be */
