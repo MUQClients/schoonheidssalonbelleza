@@ -46,8 +46,11 @@ body {
   color: #007bff;
 }
 .muqpo{
-  font-size: 10px;
+  font-size: 11px;
   text-align: center;
+  color: #fff;
+}
+.muqpo a{
   color: #fff;
 }
 /* Copyright 2019 MUQPO.be - KJR. */
